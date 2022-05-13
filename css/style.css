@@ -3,11 +3,11 @@ body{
 }
 
 .navbar {
-   background-color:#31B404;
+   background-color: #61E786;
 }
 
 .quem-somos{
-    background-color: #9F81F7;
+    background-color: #5A5766;
     color: white;
 }
 .margin{
@@ -16,5 +16,20 @@ body{
 }
 
 .parceiros{
-    background-color: #58FAF4;
+    background-color: #48435C;
+    color: white;
+}
+
+.servicos{
+    background-color: #9792E3;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.dt-boot{
+    color: blue;
 }
